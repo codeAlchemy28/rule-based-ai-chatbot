@@ -1,5 +1,5 @@
 **DecodeBot**
-A rule-based AI chatbot developed as part of the DecodeLabs Artificial Intelligence Internship.
+A rule-based AI chatbot developed using Python for interactive question-answering and conversational responses.
 DecodeBot is a simple rule-based chatbot that uses predefined rules and conditional statements to respond to user inputs.
 
 The chatbot demonstrates fundamental Artificial Intelligence concepts such as:

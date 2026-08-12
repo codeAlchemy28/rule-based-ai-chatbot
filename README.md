@@ -31,12 +31,21 @@ Welcome to DecodeBot!
 Type 'bye', 'exit', or 'quit' to end the chat.
 
 You: Hello!
+
 Bot: Hello! How can I help you?
+
 You: what is your name ??
+
 Bot: I'm DecodeBot, a rule-based AI chatbot.
+
 You: HOW ARE YOU ?
+
 Bot: I'm doing great! Thanks for asking.
+
 You: Thank you!
+
 Bot: You're welcome!
+
 You: bye
+
 Bot: Goodbye! Have a great day!
